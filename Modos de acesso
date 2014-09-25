@@ -1,0 +1,16 @@
+/*Modos de acesso*/
+
+Noob
+Noob - You don't need to reference a datasheet, but you will need to know basic power requirements.
+
+Rookie
+Rookie - You may be required to know a bit more about the component, such as orientation, or how to hook it up, in addition to power requirements. You will need to understand polarized components.
+
+Competent
+Competent - You will be required to reference a datasheet or schematic to know how to use a component. Your knowledge of a datasheet will only require basic features like power requirements, pinouts, or communications type. Also, you may need a power supply that?s greater than 12V or more than 1A worth of current.
+
+Experienced
+Experienced - You will need to consult a datasheet for calculations to determine a components output format, linearity, and do a little math to get what you need. You will be using a datasheet or schematic beyond basic pinouts.
+
+Expert
+Expert - You will need a solid understanding of datasheets and electrical theory. You may be dealing with high voltage, dangerous current, AC line voltage. You may be required to use an oscilloscope, perform waveform analysis, or perform RF calculations.
